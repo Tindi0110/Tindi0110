@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tindi0110
+- 👋 Hi, I’m Evans Njenga 
 - 👀 I’m interested in ...Software development and coding
 - 🌱 I’m currently learning ...Bachelor of science in Information Technology 
 - 💞️ I’m looking to collaborate on ...coding 
